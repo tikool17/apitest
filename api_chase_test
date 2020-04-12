@@ -1,0 +1,11 @@
+{
+  "product": "JSON TEST",
+  "version": 0.1,
+  "releaseDate": "2020-04-11T00:00:00.000Z",
+  "demo": true,
+  "more_list": {
+    "id": 1,
+    "name": "Freechapel.org",
+    "url": "https://freechapel.org"
+  }
+}
